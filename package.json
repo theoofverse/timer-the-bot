@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependincies": {
-    "discord.js: "11.5.1",
+    "discord.js: "11.1.0",
     "request": "2.18.0"
   }
 }
