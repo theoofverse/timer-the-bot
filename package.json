@@ -6,9 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "theoofverse",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^11.5.1"
+  "dependincies": {
+    "discord.js: "11.5.1",
+    "request": "2.18.0"
   }
 }
